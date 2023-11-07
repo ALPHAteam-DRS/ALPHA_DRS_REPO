@@ -1,0 +1,9 @@
+{
+	"name": "Alphadrsdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bdf1e333-2420-49f6-9aee-a80ffa026856",
+		"tenantId": "86f5208b-0ac7-4689-b410-e03eecce00b7"
+	}
+}
